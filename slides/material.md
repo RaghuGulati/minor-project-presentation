@@ -57,7 +57,7 @@ The project PARIVAHAN GNDEC focuses on making the process of bus pass applicatio
 ### Software Technologies Used:
 - Front-End
  - HTML
- - CSS
+ - CSS (Bootstrap)
 - Back-End - Python (Django)
 - Database - MySQL
 
